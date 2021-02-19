@@ -23,7 +23,7 @@ You can optionally also do a layout that is appropriate for a tablet or desktop 
 
 ### No annotations
 
-Do not include any annotations or notes in your diagrams - the functionality of the screens should be self-explanatory or else you may be designing a difficult experience.
+Do not include any annotations or notes in the diagrams themselves - you will have an opportunity to write any important notes when you write descriptions of each of these diagrams in the `README.md` file.
 
 ### Number of diagrams
 

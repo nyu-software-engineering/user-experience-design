@@ -110,3 +110,7 @@ Overwrite the contents of the `README.md` in your team's assignment repository w
 - Make this document easy-to-read, with clear headings and sub-headings, and good formatting of text.
 - For the wireframe diagrams, include the title of each diagram, as well as a simple explanation of the purpose of the screen it represents.
 - Any functionality of the screen that is not obvious should be written into the document.
+
+### Stage, commit, and push
+
+Use git to stage, commit, and push your work to GitHub.com

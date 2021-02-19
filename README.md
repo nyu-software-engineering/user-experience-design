@@ -4,5 +4,5 @@ This repository contains instructions and files for two assignments that togethe
 
 Replace the contents of this file with the completed assignments, as described in:
 
-- [app map and wireframe instructions](./app-map-wireframe-instructions.md).
-- [prototype instructions](./prototype-instructions.md)
+- [app map and wireframe instructions](./instructions-app-map-wireframe.md).
+- [prototype instructions](./instructions-prototype.md)

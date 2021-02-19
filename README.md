@@ -1,5 +1,8 @@
 ## User Experience Design
 
-An assignment to complete wireframe diagrams and an app map for a web app on a mobile device.
+This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
 
-Replace the contents of this file with the completed assignment, as described in the [instructions](./instructions.md).
+Replace the contents of this file with the completed assignments, as described in:
+
+- [app map and wireframe instructions](./app-map-wireframe-instructions.md).
+- [prototype instructions](./prototype-instructions.md)
